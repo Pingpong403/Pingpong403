@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pingpong403
-- 👀 I’m interested in 
-- 🌱 I’m currently learning Python but want to expand to the C languages, etc.
-- 💞️ I’m looking to collaborate on school projects and such.
+- 👀 I’m interested in creative coding, video games, and web design!
+- 🌱 I’m currently a Senior in college studying software engineering.
+- 💞️ I’m looking for an internship.
 - 📫 joshuahamilton8@yahoo.com - ham18022@byui.edu - (209) 614-9913
 
 <!---
